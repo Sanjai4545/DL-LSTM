@@ -29,9 +29,9 @@ Build a bidirectional LSTM model for sequence tagging.
 
 Train the model over multiple epochs, tracking loss.
 
-### Name: Syed Mohamed Raihan M
+### Name: SANJAI T
 
-### Register Number: 212224240167
+### Register Number: 212224240144
 
 ## PROGRAM
 ```PYTHON
